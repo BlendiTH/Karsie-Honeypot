@@ -36,10 +36,9 @@ Karsie poses as an OpenSSH server to detect, log and block unauthorized connecti
 ## Using the script
 
 1. Clone or copy the script, and give it the proper permissions:
-
 `chmod +x karsiehoneypot.sh`
 
-2. Edit the configuration at the top of the script:
+3. Edit the configuration at the top of the script:
 - `WEBHOOK_URL`  → your Discord webhook URL
 - `PING`         → your Discord user/role ID for mentions
 - `PORT`         → listening port (default: 2222)
