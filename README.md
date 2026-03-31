@@ -33,7 +33,7 @@ Karsie poses as an OpenSSH server to detect, log and block unauthorized connecti
   - `curl` → `sudo apt install curl`
   - `ufw` → normally pre-installed on Ubuntu
 
-## Using the script
+## Quick Start
 
 1. Clone or copy the script, and give it the proper permissions:
 `chmod +x karsiehoneypot.sh`
