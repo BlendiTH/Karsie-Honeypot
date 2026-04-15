@@ -5,12 +5,16 @@
 
 A lightweight SSH honeypot project created for my Linux Servers course.
 
-## ⚠️ Disclaimer
-**Karsie is an educational school project created by a beginner/intermediate developer** to learn about Linux servers. **It is not an enterprise-grade security tool.**
+---
 
-*By using this script, you acknowledge that the author is not responsible for any damage, data loss, or legal issues that may arise from its use. Because this script automatically modifies firewall (UFW) rules, there is a risk of blocking legitimate traffic.*
+> [!WARNING]
+> **Karsie is an educational school project created by a beginner/intermediate developer** to learn about Linux servers. **It is not an enterprise-grade security tool.**
+> 
+> *By using this script, you acknowledge that the author is not responsible for any damage, data loss, or legal issues that may arise from its use. Because this script automatically modifies firewall (UFW) rules, there is a risk of blocking legitimate traffic.*
+> 
+> **Deploy this only on systems you own. Do not use this in a critical production environment. Use entirely at your own risk!**
 
-**Deploy this only on systems you own. Do not use this in a critical production environment. Use entirely at your own risk!**
+---
 
 ## How It Works
 
