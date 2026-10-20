@@ -1,9 +1,9 @@
 
 ![Logo](https://i.imgur.com/g6Plmon.png)
 
-# 🐶 Karsie — SSH Honeypot
+# 🐶 Karsie | SSH Honeypot
 
-A lightweight SSH honeypot project created for my Linux Servers course.
+A lightweight SSH honeypot that logs, alerts on Discord via Webhooks and blocks unauthorized connection attempts. Built as the final project for my Linux Servers course.
 
 ---
 
@@ -13,7 +13,8 @@ A lightweight SSH honeypot project created for my Linux Servers course.
 > *By using this script, you acknowledge that the author is not responsible for any damage, data loss, or legal issues that may arise from its use. Because this script automatically modifies firewall (UFW) rules, there is a risk of blocking legitimate traffic.*
 > 
 > **Deploy this only on systems you own. Do not use this in a critical production environment. Use entirely at your own risk!**
-
+>
+> **AI disclosure:** Parts of this project were developed with the assistance from Claude Opus 4.6, mainly used for ideas, debugging, and comments. The rest is my own work.
 ---
 
 ## How It Works
